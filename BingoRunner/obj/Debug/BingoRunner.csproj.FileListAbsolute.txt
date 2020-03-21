@@ -1,0 +1,7 @@
+d:\Документы пользователей\Konstantinov\Мои документы\Visual Studio 2015\Projects\BingoRunner\BingoRunner\bin\Debug\BingoRunner.exe
+d:\Документы пользователей\Konstantinov\Мои документы\Visual Studio 2015\Projects\BingoRunner\BingoRunner\bin\Debug\BingoRunner.pdb
+d:\Документы пользователей\Konstantinov\Мои документы\Visual Studio 2015\Projects\BingoRunner\BingoRunner\obj\Debug\BingoRunner.csprojResolveAssemblyReference.cache
+d:\Документы пользователей\Konstantinov\Мои документы\Visual Studio 2015\Projects\BingoRunner\BingoRunner\obj\Debug\BingoRunner.exe
+d:\Документы пользователей\Konstantinov\Мои документы\Visual Studio 2015\Projects\BingoRunner\BingoRunner\obj\Debug\BingoRunner.pdb
+C:\Users\Konstantinov\Source\Repos\bingo-runner\BingoRunner\obj\Debug\BingoRunner.exe
+C:\Users\Konstantinov\Source\Repos\bingo-runner\BingoRunner\obj\Debug\BingoRunner.pdb
